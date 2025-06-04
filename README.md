@@ -58,8 +58,8 @@ This repository is **strictly for educational and academic purposes only**. The 
 ---
 
 ## 📎 Citation
-If referencing this report or its analysis, please cite using APA style:
-> YourName. (2025). *Cyber Threat Intelligence Analysis of WannaCry Ransomware*. GitHub. https://github.com/YourUsername/wannacry-threat-intelligence
+If referencing this report or its analysis, please cite using:
+(https://github.com/MohammaD2020193/CyberThreat-Landscape-Report)
 
 ---
 
